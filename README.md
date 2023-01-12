@@ -31,8 +31,7 @@
 </p>
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/13Aluminium/github-readme-stats)<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Let's Connect 🤝 </h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13Aluminium)](https://github.com/13Aluminium/github-readme-stats)<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Let's Connect 🤝 </h3>
 
 <p align="center">
 
