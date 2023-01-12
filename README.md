@@ -31,17 +31,7 @@
 </p>
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-	 <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
-    <td><img src="https://camo.githubusercontent.com/04a68d28c34b095402af3f66b15a65b9802c0d7ffdfa813635f65a9dbb18c16e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67" width="200"></td>
-    <td><img src="https://user-images.githubusercontent.com/110249518/206556874-6c354efb-bf70-4b7e-94b6-5f2e30809f33.png" width="200"></td>
-  </tr>
-
- 
-
-</table>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Let's Connect 🤝 </h3>
 
