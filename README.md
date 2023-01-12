@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Backend Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+</p> -->
 
 <p align='center'>
  <h1 align="center">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/13Aluminium/count.svg)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/13Aluminium?cardType=github&theme=dark&Title=DD272700&Background=000000&hide_border=false)](https://git.io/awesome-stats-card)
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=13Aluminium&count_private=true&show_icons=true&theme=tokyonight" />
