@@ -12,6 +12,7 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=13Aluminium%22"/>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/13Aluminium?cardType=github&theme=dark&Title=DD272700&Background=000000&hide_border=false)](https://git.io/awesome-stats-card)
 <h1 align="center"></h1>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=13Aluminium&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13Aluminium&layout=compact&theme=aura&langs_count=9" />
