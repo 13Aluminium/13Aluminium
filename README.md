@@ -16,8 +16,8 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=13Aluminium&theme=black-ice&hide_border=true)](https://git.io/streak-stats) 
 <h1 align="center"></h1>
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+<!-- <p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif"> -->
 
 <!-- <img height="150" /> -->
 
