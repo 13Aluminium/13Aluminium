@@ -25,12 +25,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13Aluminium&show_icons=true&theme=radical)
 
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://camo.githubusercontent.com/badb9b8e33b5dd64ba966714daf05dc0018b7a8ceb6e6d0bd26cb996743e15c7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d7472696e69622e76657263656c2e6170702f3f757365723d7472696e6962267468656d653d6d65726b6f26626f726465723d63396666303026666972653d666635353030">
+[![GitHub Streak](https://streak-stats.demolab.com?user=13Aluminium&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://camo.githubusercontent.com/14ae1b49b861837c7787f8ba19b5b7349d160bdbc0b90f2184b60789449077f1/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d633966663030266c616e67735f636f756e743d36">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13Aluminium&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=13Aluminium&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
