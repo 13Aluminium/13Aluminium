@@ -55,7 +55,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br>
 
-- :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+Hello! My name is Ayush Luhar and I am an aspiring back-end developer. Despite my limited experience, I am highly motivated to succeed in this field and become a top-performing developer. I welcome any opportunities to learn and grow, and am open to collaborating with others to improve my skills. Please don't hesitate to reach out to me if you need assistance with your server-side code or if you'd like to exchange stories and experiences. I am always eager to learn from others and am willing to take on new challenges, even if it means making a few mistakes along the way. Thank you for considering me as a resource.
 
 </div>
 <br>
