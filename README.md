@@ -82,7 +82,7 @@ Hello! My name is Ayush Luhar and I am an aspiring back-end developer. Despite m
 <!--         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a> -->
 <!--    **for twitter**-->
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ayushjluhar">
+		<a style="margin-left: 10px;"  href="https://twitter.com/ayushjluhar">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 <!--    **for youtube**-->
 <!-- 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
