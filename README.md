@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=13Aluminium&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=13Aluminium&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ayush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=13Aluminium&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--😂💬JOKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
